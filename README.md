@@ -19,7 +19,7 @@
 
 > Python'ya yeni başladığım için alıştırmalarla yaptığım proje
 
-* [Github!](github.com/yazilimcihanim/Python)'daki projeye yıldız atarak katkıda bulun bulunarak.
+* [Github!](github.com/yazilimcihanim/python)'daki projeye yıldız atarak katkıda bulun bulunarak.
 
 
 ### <b><u>🎙️Support🎙️</u></b>
@@ -37,7 +37,7 @@
 
 ### Developer 👨‍💻 
 
-[![yazılımcı hanım](https://img.shields.io/badge/Yazilimci-hanim-green?style=for-the-badge&logo=appveyor)](https://t.me/KunalDiwan) 
+[![yazılımcı hanım](https://img.shields.io/badge/Yazilimci-hanim-green?style=for-the-badge&logo=appveyor)](github.com/yazilimcihanim) 
 
 ######  [@drmehmetaktasss](github.com/drmehmetaktass) 💖 Tarafından desteklenmektedir
 ## Github'ta beni takip et 😋
